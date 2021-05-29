@@ -1,0 +1,17 @@
+@import "reset.scss";
+@import "header.scss";
+@import "signup.scss";
+@import "icons.scss";
+@import "showcase.scss";
+@import "talking.scss";
+@import "bottomsignup";
+@import "rights.scss";
+
+
+@import "media.scss";
+
+body {
+  display: flex;
+  flex-flow: column;
+  font-family: lato;
+}

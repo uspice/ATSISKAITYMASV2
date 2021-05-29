@@ -1,0 +1,82 @@
+.talking {
+  background: #f8f9fa;
+
+.text {
+  text-align: center;
+  padding-top: 50px;
+}
+
+.people {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+
+.person {
+    display:flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    margin: 0 auto;
+    max-width:280px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    text-align: center;
+
+  img {
+    display: flex;
+    border-radius: 100%;
+    width: 50%;
+    margin: 0 auto;
+    margin-bottom: 20px;
+   }
+  }
+ }
+}
+
+
+
+// .talking {
+//   display: flex;
+//   flex-wrap: wrap;
+//   flex-direction: column;
+//   justify-content: center;
+//   width: 100%;
+//   background: #f8f9fa;
+//
+// .text {
+//   display: flex;
+//   justify-content: center;
+//   margin: 50px;
+// }
+//
+// .people {
+//   display: flex;
+//   justify-content: center;
+//   align-items: center;
+//   margin-bottom: 100px;
+//
+// }
+// }
+//
+// .person {
+//   max-width: 280px;
+//
+// }
+//
+//
+// img {
+//   align-items: center;
+//   width: 50%;
+//   border-radius: 100%;
+//   margin-left: 70px;
+//   margin-bottom: 20px;
+// }
+//
+// h2 {
+//   text-align: center;
+//   margin-bottom: 10px;
+// }
+//
+// p {
+//   text-align: center;
+// }
+// }
